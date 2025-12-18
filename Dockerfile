@@ -12,4 +12,3 @@ EXPOSE 8080
 
 CMD ["sh", "-c", "java -jar target/*.jar"]
 
-# something
